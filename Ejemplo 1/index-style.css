@@ -1,0 +1,31 @@
+body{
+   color: green;
+   font-family: "Playwrite ES", cursive;
+
+}
+
+a{
+    font-family: "Oswald", sans-serif;
+
+}
+caption, thead{
+    color: brown;
+}
+
+
+
+.ulnav{
+    font-family: "Playwrite ES", cursive;
+    margin: 50px;
+    font-size: 25px;
+    text-align:left;
+    display: flex;
+    list-style-type: none;
+}
+
+footer{
+    font-family: "Playwrite ES", cursive;
+    font-size: 50px;
+    text-align: center;
+}
+

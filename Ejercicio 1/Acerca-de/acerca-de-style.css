@@ -1,0 +1,78 @@
+.ulnav{
+    justify-content: center;
+    display: flex;
+    list-style-type: none;
+}
+
+.linav{
+    padding-right: 20px;
+}
+
+.anav{
+    color: inherit;
+    text-decoration: none;
+}
+
+.tablecontainer{
+    display: flex;
+    justify-content: center;
+}
+
+.thead1{
+    color: chartreuse;
+    font-family: "Playwrite ES", cursive;
+
+}
+
+.tr1{
+    color: red;
+    
+}
+
+
+body{
+    margin: 0px;
+} 
+
+nav{
+    background-color:aquamarine;
+    font-family: "Oswald", sans-serif;
+    padding: 20px;
+}
+
+h1{
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+    color: brown;
+}
+
+div{
+    text-align: center;
+
+}
+
+caption{
+    border: 2px solid black;
+    color: brown;
+     font-family: "Oswald", sans-serif;
+ 
+}
+
+table{
+    border: 2px solid black;
+    margin: 100px;
+}
+
+span{
+    text-align: right;
+}
+
+footer{
+
+    font-family: "Playwrite ES", cursive;
+    font-size: 50px;
+    position: relative;
+    text-align:left;
+}
+
+
